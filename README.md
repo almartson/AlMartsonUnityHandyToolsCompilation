@@ -1,7 +1,7 @@
 # AlMartsonUnityHandyToolsCompilation
 My own custom made set of Unity3D Handy Tools: 
 
-# 1- Copying:
+# 1- Copying Components:
 In the Unity Editor, in the TAB named 'GamObjects and Components' you will have:
 * Multiple Components Copy between two GameObjects.
 * Components deletion
