@@ -6,6 +6,10 @@ In the Unity Editor, in the TAB named 'GamObjects and Components' you will have:
 * Components deletion
 * GameObject Replace (by another GO in Scene or a Prefab): Transform (position + rotation + scale) and Components.
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
 In the Unity Editor, in the TAB named 'MyCustomBake/Bake All Objects Including Emission (GameObjects) Light Into Lightmaps' you will have the option to:
 * Bake Emissive Materials into Lightmaps (Note: The GOs must be marked as Static, and have a particular Layer or a Tag, as decribed in the Tool). The Heart of the Source Code of this handy algorithm was taken from: https://support.unity3d.com/hc/en-us/articles/214718843-My-Emissive-material-shader-does-not-appear-in-the-Lightmap- ).
 
