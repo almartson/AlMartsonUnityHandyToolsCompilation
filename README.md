@@ -13,4 +13,6 @@ Some of these tools belong to several authors (although I changed them a little 
 
 Thanks to this and other Free Tools I was able to finish some interesting Projects.. I am very grateful, so I decided to share it with you.
 
+Tested in Unity 2017.1 & 2018.4.0f1.
+
 Have a nice day.
