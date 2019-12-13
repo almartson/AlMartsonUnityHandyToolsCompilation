@@ -7,7 +7,7 @@ In the Unity Editor, in the TAB named 'GamObjects and Components' you will have:
 * Components deletion
 * GameObject Replace (by another GO in Scene or a Prefab): Transform (position + rotation + scale) and Components.
 
-
+![Image of Baking Lightmaps](/Readme_Images/1_1_CopyAllComp_Recortada.png)
 
 
 ## 2- Baking Lightmaps: 
